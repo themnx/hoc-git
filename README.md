@@ -1,2 +1,1 @@
-# hoc-git
-huong dan hoc git
+# Huong dan hoc git
